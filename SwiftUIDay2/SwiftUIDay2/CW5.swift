@@ -12,7 +12,7 @@ struct CW5: View {
     var body: some View {
         List{
             MovieRow(movieName: "Inglourious Basterds", mainCharacters: ["Aldo Raine", "Hans Landa", "Donny"])
-            MovieRow(movieName: "Shutter Island", mainCharacters: ["Teddy Daniels", "Chuck Aule", "Dr. Cawley"])
+            MovieRow(movieName: "Shutter Island", mainCharacters: ["Teddy Daniels", "Chuck", "Dr. Cawley"])
             MovieRow(movieName: "Inception", mainCharacters: ["Dom Cobb", "Ariadne", "Mal Cobb"])
         }
     }
