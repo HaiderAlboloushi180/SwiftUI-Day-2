@@ -14,6 +14,7 @@
 		D5798FFD24EE890900D34EDE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D5798FFC24EE890900D34EDE /* Preview Assets.xcassets */; };
 		D579900024EE890900D34EDE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5798FFE24EE890900D34EDE /* LaunchScreen.storyboard */; };
 		D579900824EE9D6500D34EDE /* CW5.swift in Sources */ = {isa = PBXBuildFile; fileRef = D579900724EE9D6500D34EDE /* CW5.swift */; };
+		D579900E24EEA6A200D34EDE /* CW6.swift in Sources */ = {isa = PBXBuildFile; fileRef = D579900D24EEA6A200D34EDE /* CW6.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		D5798FFF24EE890900D34EDE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D579900124EE890900D34EDE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D579900724EE9D6500D34EDE /* CW5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CW5.swift; sourceTree = "<group>"; };
+		D579900D24EEA6A200D34EDE /* CW6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CW6.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				D5798FF524EE890800D34EDE /* SceneDelegate.swift */,
 				D5798FF724EE890800D34EDE /* ContentView.swift */,
 				D579900724EE9D6500D34EDE /* CW5.swift */,
+				D579900D24EEA6A200D34EDE /* CW6.swift */,
 				D5798FF924EE890900D34EDE /* Assets.xcassets */,
 				D5798FFE24EE890900D34EDE /* LaunchScreen.storyboard */,
 				D579900124EE890900D34EDE /* Info.plist */,
@@ -151,6 +154,7 @@
 			files = (
 				D5798FF424EE890800D34EDE /* AppDelegate.swift in Sources */,
 				D5798FF624EE890800D34EDE /* SceneDelegate.swift in Sources */,
+				D579900E24EEA6A200D34EDE /* CW6.swift in Sources */,
 				D5798FF824EE890800D34EDE /* ContentView.swift in Sources */,
 				D579900824EE9D6500D34EDE /* CW5.swift in Sources */,
 			);

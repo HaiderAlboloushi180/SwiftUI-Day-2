@@ -14,7 +14,6 @@ struct CW5: View {
             MovieRow(movieName: "Inglourious Basterds", mainCharacters: ["Aldo Raine", "Hans Landa", "Donny"])
             MovieRow(movieName: "Shutter Island", mainCharacters: ["Teddy Daniels", "Chuck Aule", "Dr. Cawley"])
             MovieRow(movieName: "Inception", mainCharacters: ["Dom Cobb", "Ariadne", "Mal Cobb"])
-            
         }
     }
 }
