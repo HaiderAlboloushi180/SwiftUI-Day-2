@@ -18,6 +18,7 @@
 		D579901024EEAC0F00D34EDE /* MoviesDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D579900F24EEAC0F00D34EDE /* MoviesDetailsView.swift */; };
 		D579901224EEDF3200D34EDE /* ThekrAssignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = D579901124EEDF3200D34EDE /* ThekrAssignment.swift */; };
 		D579901424EF2F8A00D34EDE /* Athkar.swift in Sources */ = {isa = PBXBuildFile; fileRef = D579901324EF2F8A00D34EDE /* Athkar.swift */; };
+		D579901C24F1BD7200D34EDE /* AthkarDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = D579901B24F1BD7200D34EDE /* AthkarDestination.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		D579900F24EEAC0F00D34EDE /* MoviesDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesDetailsView.swift; sourceTree = "<group>"; };
 		D579901124EEDF3200D34EDE /* ThekrAssignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThekrAssignment.swift; sourceTree = "<group>"; };
 		D579901324EF2F8A00D34EDE /* Athkar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Athkar.swift; sourceTree = "<group>"; };
+		D579901B24F1BD7200D34EDE /* AthkarDestination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AthkarDestination.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				D579900D24EEA6A200D34EDE /* CW6.swift */,
 				D579900F24EEAC0F00D34EDE /* MoviesDetailsView.swift */,
 				D579901124EEDF3200D34EDE /* ThekrAssignment.swift */,
+				D579901B24F1BD7200D34EDE /* AthkarDestination.swift */,
 				D5798FF924EE890900D34EDE /* Assets.xcassets */,
 				D5798FFE24EE890900D34EDE /* LaunchScreen.storyboard */,
 				D579900124EE890900D34EDE /* Info.plist */,
@@ -165,6 +168,7 @@
 				D579901224EEDF3200D34EDE /* ThekrAssignment.swift in Sources */,
 				D579901424EF2F8A00D34EDE /* Athkar.swift in Sources */,
 				D5798FF424EE890800D34EDE /* AppDelegate.swift in Sources */,
+				D579901C24F1BD7200D34EDE /* AthkarDestination.swift in Sources */,
 				D5798FF624EE890800D34EDE /* SceneDelegate.swift in Sources */,
 				D579900E24EEA6A200D34EDE /* CW6.swift in Sources */,
 				D5798FF824EE890800D34EDE /* ContentView.swift in Sources */,

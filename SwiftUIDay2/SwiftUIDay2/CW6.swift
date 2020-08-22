@@ -12,11 +12,10 @@ struct CW6: View {
     var body: some View {
         NavigationView{
             List{
-                MovieDetails(movieName: "Inglourious Basterds", mainCharacters: ["Aldo Raine", "Hans Landa", "Donyy"], movieImage: #imageLiteral(resourceName: "Inglourious Basterds"))
+                MovieDetails(movieName: "Inglourious Basterds", mainCharacters: ["Aldo Raine", "Hans Landa", "Donny"], movieImage: #imageLiteral(resourceName: "Inglourious Basterds"))
                 MovieDetails(movieName: "Shutter Island", mainCharacters: ["Teddy Daniels", "Chuck", "Dr. Cawley"], movieImage: #imageLiteral(resourceName: "Shutter Island"))
                 MovieDetails(movieName: "Inception", mainCharacters: ["Dom Cobb", "Ariadne", "Mal Cobb"], movieImage: #imageLiteral(resourceName: "Inception"))
                 MovieDetails(movieName: "Haider", mainCharacters: ["Haider", "Ghazala", "Arshia"], movieImage: #imageLiteral(resourceName: "Haider"))
-
             }
         .navigationBarTitle("Movies")
         }
